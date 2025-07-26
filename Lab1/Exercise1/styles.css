@@ -1,0 +1,47 @@
+/* CSS File for index.html */
+body {
+  background-color: powderblue;
+  font-size: 14px;
+  font-style: "Modern Latin Roman";
+}
+
+#resume-layout {
+  background-color: white;
+  width: 700px;
+  margin: auto;
+}
+
+#name-app {
+  padding-top: 10px;
+  text-align: center;
+}
+
+#personal {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.section-header {
+  margin-left: 5px;
+  margin-bottom: 0;
+}
+
+#edu {
+  padding: 0px 5px 0px 5px;
+}
+
+.row {
+  display: flex;
+  justify-content: space-between;
+}
+
+ul {
+  padding: 0px 5px 0px 15px;
+}
+
+.project,
+.achievement,
+.skill,
+.vol {
+  margin: 0px 0px 10px 0px;
+}
